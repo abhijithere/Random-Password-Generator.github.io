@@ -1,0 +1,64 @@
+body{
+    background-image: url(img/Best-Password-Generators-to-Create-Strong-Random-Passwords1.webp);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.box1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 300px;
+    width: 400px;
+    margin-left: 65vw;
+    margin-top: 27vh;
+    background-color:  rgba(147, 219, 235, 0.421);
+    border-radius:15px 15px;
+}
+.box{
+    margin-bottom: 10px;
+}
+.head12{
+    margin-bottom: 5vh;
+}
+.inputbox{
+   box-sizing: border-box;
+   margin-top: 30px;
+}
+.button{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 30px;  
+}
+ @media screen and (max-width:1400px){
+   body{
+   background-image: none;
+   min-height: 1vh;
+   }
+   .box{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 100%;
+    width: 28%;
+    margin-top: -14vh;
+    padding: 10px;
+    margin-right: none;
+  }
+ .container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-right: none;
+
+ }
+ .box1{
+    padding: 8vw;
+    margin-right: none;
+
+
+ }
+ .body22{
+    size: 20vwpx;
+ }
+   }
